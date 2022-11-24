@@ -2,7 +2,6 @@
 
 <h4 align="center">
 
-[![Github Badge](https://img.shields.io/badge/-Facebook-blue?style=for-the-badge&logo=Facebook&logoColor=white&link=https://github.com/devcadu)](https://www.facebook.com/profile.php?id=100003699395528)
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/devcadu)](https://www.instagram.com/cadulima._/)
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://github.com/devcadu)](https://www.linkedin.com/in/carlos-eduardo-lima-737350169/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tJzXGDfHnd)
