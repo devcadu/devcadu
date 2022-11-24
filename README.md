@@ -3,7 +3,7 @@
 <h3 align='center'>I'm a passionate Developer from Brazil.</h3>
 
 - 📫 How to reach me: [![Linkedin Badge](https://img.shields.io/badge/linkedin-%230077B5.svg?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/carlos-eduardo-lima-737350169/)](https://www.linkedin.com/in/carlos-eduardo-lima-737350169/)
-- ⚡ Fun fact: I like to have a cold beer, practice physical exercises, a good game and a code to beat my head.
+- ⚡ Fun fact: I like to have a cold poop, practice physical exercises, a good game and a code to beat my head.
 - 🤯 I'm dedicating myself to becoming a Full Stack Developer, a difficult path, but nothing impossible.
 
 <div align="center">
