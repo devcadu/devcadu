@@ -10,7 +10,7 @@
 </h4>
 
 
-I'm passionate about technology! I had my first contact with computers when I was 14 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in Africa for a while.
+I'm passionate about technology! I had my first contact with computers when I was 14 years old and since then I've been discovering a little more about this wonderful area, I like the opportunity that technology offers people, and the proposal to make people's lives easier, I have a dream of getting to know the whole world sharing all my knowledge and also acquiring new experiences and experiences, I think that knowledge is something everyone should have access to, and I wanted to have the experience of living in EUA for a while.
 
 I have knowledge in: JavaScript, HTML, CSS.
 
