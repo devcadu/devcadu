@@ -40,7 +40,7 @@ The joy is in the struggle, in the attempt, in the suffering involved and not in
           📷 <a href="https://www.instagram.com/cadulima._/">Follow me on instagram</a>
         </li>
         <li>
-          📬 <a href=mailto:carloseduardo010101@gmail.com>Contact-me on email</a>
+          📬 <a href=mailto:devcarloseduardolima01@gmail.com>Contact-me on email</a>
         </li>
       </ul>
     </td>
