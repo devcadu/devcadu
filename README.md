@@ -3,7 +3,7 @@
 <h4 align="center">
 
 [![Instagram Badge](https://img.shields.io/badge/-instagram-red?style=for-the-badge&logo=instagram&logoColor=white&link=https://github.com/devcadu)](https://www.instagram.com/cadulima._/)
-[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://github.com/devcadu)]([www.linkedin.com/in/devcadu/])
+[![Linkedin Badge](https://img.shields.io/badge/-Linkedin-blue?style=for-the-badge&logo=Linkedin&logoColor=white&link=https://https://github.com/devcadu)](www.linkedin.com/in/devcadu/)
 [![Discord Badge](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tJzXGDfHnd)
 
 
